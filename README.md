@@ -1,1 +1,1 @@
-# CS-Notes
+# These are my Computer Science Notes
